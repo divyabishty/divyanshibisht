@@ -44,7 +44,7 @@ I have a deep passion for building responsive web solutions and mastering the **
 
 ### 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=divyanshibisht&show_icons=true&theme=radical" alt="Divyanshi's Stats" />
+<img src="https://github.com/divyabishty/divyanshibisht/edit/main/README.md&show_icons=true&theme=radical" alt="Divyanshi's Stats" />
 </p>
 
 <div align="center">
