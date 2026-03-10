@@ -19,7 +19,7 @@ I am a highly motivated **Bachelor of Computer Applications (BCA)** student at T
 - **SEO Web Pages:** Built with a focus on accessibility, metadata accuracy, and content hierarchy.
 - **Responsive Portfolio:** Using CSS Grid and Flexbox for optimized performance.
 
-### 🤝 Let's Connect!
+**CONNECT WITH ME**
 <a href="https://www.linkedin.com/in/divyanshi-bisht-a42981282/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
