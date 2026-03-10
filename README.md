@@ -20,8 +20,6 @@ I am a highly motivated **Bachelor of Computer Applications (BCA)** student at T
 - **Responsive Portfolio:** Using CSS Grid and Flexbox for optimized performance.
 
 ### Connect with Me
-<a href="https://www.linkedin.com/in/divyanshi-bisht-a42981282/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Divyanshi Bisht LinkedIn" />
-</a>
+[![LinkedIn](https://img.shields.io/static/v1?label=Connect&message=LinkedIn&color=0077B5&logo=linkedin)](https://www.linkedin.com/in/divyanshi-bisht-a42981282/)
 
 - Email: divyanshibisht777om9@gmail.com
