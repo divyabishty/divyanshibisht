@@ -9,7 +9,7 @@ I am a highly motivated **Bachelor of Computer Applications (BCA)** student at T
 -  **Fun Fact:** I enjoy breaking down complex coding problems into manageable logic.
 
 ### Technical Toolbox
-- **Languages:** [[HTML5](https://img.shields.io/static/v1?label=Connect&message=HTML5&color=0042B5&logo=HTML5)], CSS3, JavaScript, Core Java (Learning)
+- **Languages:** HTML5, CSS3, JavaScript, Core Java (Learning)
 - **Frameworks/Libraries:** Semantic UI, Responsive Web Design
 - **Tools:** Git, GitHub, VS Code, Eclipse EE
 - **Concepts:** SDLC, OOPs, SEO-oriented Content Hierarchy, UI/UX Layout
