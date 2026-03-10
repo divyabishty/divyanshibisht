@@ -1,8 +1,3 @@
-To make your profile stand out, we can use a mix of HTML center-alignment, GitHub-themed icons, and Skill Badges. This looks much more professional and "tech-savvy" for an aspiring Software Engineer.
-
-Copy and paste this entire block to replace your current README:
-
-Markdown
 <div align="center">
 
 # Hi, I'm Divyanshi Bisht! 👋
